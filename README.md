@@ -12,5 +12,5 @@ Enjoy driving sideways 👊😎
 
 ## Shared item in qb-core items.lua
 ```lua
-['driftkit'] = {['name'] = 'driftkit', ['label'] = 'Drift Kit', ['weight'] = 50,['type'] = 'item', ['image'] = 'driftkit.png', ['unique'] = false,['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Vehicle Drift Kit'},
+['driftchip'] = {['name'] = 'driftchip', ['label'] = 'Drift Chip', ['weight'] = 50,['type'] = 'item', ['image'] = 'laptop.png', ['unique'] = false,['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Vehicle Drift Chip'},
 ```
